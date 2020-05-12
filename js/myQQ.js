@@ -1,9 +1,3 @@
-/*
-* @Author: apple
-* @Date:   2017-10-08 17:31:39
-* @Last Modified by:   apple
-* @Last Modified time: 2017-10-09 23:13:48
-*/
 $(function(){
 	// 属于你的浏览器 添加
 	 setTimeout(function() {
